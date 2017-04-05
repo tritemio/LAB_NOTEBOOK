@@ -15,8 +15,13 @@ See section\ref{sec:align}.
 
 
 - Added rotation (x,y) fitting to alignment notebook - 'Alignment summary - Laser G' in 2017-04-04 in alignment folder 
-- Final configuration for green SPAD: 
+- Final configuration for green LCOS: 
 
-```**x,y pitch = (23.14, 24.30)**
-**x,y rotation = (,)**
-```
+**x,y pitch = (23.14, 24.30)**
+**rotation = 1.25**
+
+- Rotation for red SPAD is counter clockwise (mirroring of red LCOS reverts direction of rotation)
+- Final configuration for red LCOS:
+
+**x,y pitch = (22.60,23.00)**
+**rotation = -1.05**
