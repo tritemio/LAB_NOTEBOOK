@@ -22,3 +22,8 @@ Notes
 007_18bp_20000x.sm - empty file --> deleted
 008_18bp_20000x.sm - empty file --> deleted
 009_18bp_20000x.sm - slightly too dilute, good sample
+
+CONCLUSION
+
+5bp sample from Eitan is good for measurement on usPAX
+18bp sample from Eitan not ideal for measurement on usPAX
