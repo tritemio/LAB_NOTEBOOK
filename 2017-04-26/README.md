@@ -80,13 +80,13 @@ Because of this we are repeating this procedure, **with the correct axes**,
 unlike before... For this we begin with conf1 and analyze images of R LCOS
 in **axes corrected** 'LCOS pattern fitting' notebook.
 
-**III. conf15 variability**
+**III. conf16 variability**
 
-Statistics of last three images of conf15 were collected and analyzed.
+Statistics of last three images of conf16 were collected and analyzed.
 
 CONCLUSIONS:
 
-- pitch accuracy ~ 0.05 LCOS units
-- center position accuracy < ~ 0.1 - 0.02 LCOS units
+- x,y pitch accuracy ~ 0.05 LCOS units
+- h,v center position accuracy < ~ 0.1 - 0.02 LCOS units
 
 **Use conf15 for the R LCOS** 
