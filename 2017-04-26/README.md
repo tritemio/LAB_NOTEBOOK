@@ -7,10 +7,15 @@ No slit
 - Aligning R beam intensity wrt to R SPAD:
 
 Real1: changed angle with far LCOS mirror
+
 Real2: translated beam 'down' by adjusting far mirror then near mirror
+
 Real3: translated beam 'down' by adjusting far mirror then near mirror
+
 Real4: translated beam 'down' by adjusting far mirror then near mirror
+
 Real5: translated beam 'down' by adjusting far mirror then near mirror
+
 Real6: translated beam horizontally with near mirror
        to fix rotation of Gaussian fit in 2D
 
@@ -22,15 +27,25 @@ Real6: translated beam horizontally with near mirror
   Resulting configurations were tested with notebook results of previous conf.
 
 Conf1: (R,G) from 2017-04-25
+
 Conf2: (R) after Real(?)
+
 Conf3: (R) after Real(?)
+
 Conf4: (R) after Real6
+
 Conf5: (R) after 0.5 degree rotation
+
 Conf6: (R) after 0.2 degree rotation
+
 Conf7: (R) after adjusting center H,V and pitch x,y
+
 Conf8: (R) after adjusting center H
+
 Conf9: (R) from results of conf8 analysis
+
 Conf10: (R) from results of conf9 analysis
+
 Conf11: (R) from results of conf10 analysis
 
 **NOTE**: Antonio found a bug in the notebook i.e. we plot the **transpose**
@@ -38,12 +53,16 @@ of the image to save space in the the notebook. The transpose is a rotation
 plus a mirroring. so (x,y) coordinates refer to notebook:
 
 Conf12: (R) fitted from conf1, img8
+
 Conf13: (R) testing directionality of center H,V on LCOS by changing
         sign in notebook and comparing to reverse sign of previous notebook.
 
 *Conf1*: (R) conf1, img 9  
+
 Conf14: (R) TESTING code: conf1 adjusted center H by +2 LCOS units
+
 Conf15: (R) fitted from conf1, images 9 and 10
+
 Conf16: (R) fitted from conf15, images 1, 2, and 3
 
 Antonio noticed variability in output parameters after many iterations.
