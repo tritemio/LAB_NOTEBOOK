@@ -1,5 +1,7 @@
 **ALIGNMENT**     2017-04-26
 
+No slit
+
 **I. CENTERING 628nm BEAM**
 
 - Aligning R beam intensity wrt to R SPAD:
@@ -41,6 +43,8 @@ Conf13: (R) testing directionality of center H,V on LCOS by changing
 
 *Conf1*: (R) conf1, img 9  
 Conf14: (R) TESTING code: conf1 adjusted center H by +2 LCOS units
+Conf15: (R) fitted from conf1, images 9 and 10
+Conf16: (R) fitted from conf15, images 1, 2, and 3
 
 Antonio noticed variability in output parameters after many iterations.
 He anticipates that we can fit with up to 0.1 pixel accuracy.
@@ -57,4 +61,13 @@ Because of this we are repeating this procedure, **with the correct axes**,
 unlike before... For this we begin with conf1 and analyze images of R LCOS
 in **axes corrected** 'LCOS pattern fitting' notebook.
 
-Notebook with edits is for conf14.
+**III. conf15 variability**
+
+Statistics of last three images of conf15 were collected and analyzed.
+
+CONCLUSIONS:
+
+- pitch accuracy ~ 0.05 LCOS units
+- center position accuracy < ~ 0.1 - 0.02 LCOS units
+
+**Use conf15 for the R LCOS** 
