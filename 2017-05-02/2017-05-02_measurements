@@ -1,0 +1,15 @@
+**IV. sm measurements!!**
+
+- sm measurements of 12d dsDNA sample at different powers
+- signal from 532nm laser is much more intense than signal from the 628nm laser,
+  even when both laser powers are set to 100mW and power is maximized with
+  the half wave plate
+- smFRET measurements look good! Still need to determine source of high, fluctuating
+  R background
+- Test measurements are saved in smdata folder:
+
+1) R laser only
+
+2) R laser only, AOM on and alternation OFF - changed sample, same dilution tube
+
+3) R and G lasers, AOM on and alternation OFF - same gasket from 2)
