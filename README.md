@@ -1,7 +1,6 @@
-**GLOBAL LOG OF DAILY ACTIVITIES
+**GLOBAL LOG OF DAILY ACTIVITIES**
 
 --------------------------------------------------------------------------------
-**
 
 
 2017-05-07  **smFRET-PAX**, promising data
