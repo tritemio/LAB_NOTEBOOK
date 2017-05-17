@@ -1,7 +1,9 @@
 DATA IS GOOD FOR MANUSCRIPT
 
 **I. File organization
+
 II. Adjusting LCOS patterns for better pattern matching
+
 III. Test addition of slit for improved signal**
 
 
