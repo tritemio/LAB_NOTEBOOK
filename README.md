@@ -17,7 +17,7 @@
 
 *2017-04-30*
 
-2017-04-28  File organization, adjusting LCOS patterns for better pattern matching,
+2017-04-28  **First day of stable alignment of 48-spot,** file organization, adjusting LCOS patterns for better pattern matching,
             test slits
 
 2017-04-27  Workflow, changes to multicounter lv, **usALEX smFRET**
